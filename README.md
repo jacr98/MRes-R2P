@@ -1,4 +1,4 @@
-# MRes-R2P
+# MRes-R2P - Supplementary_file_1.xlsx:
 
 #Sheet 1, "Meta_data_Lithuanian_isolates" - All data for Lithuanian isolates
 
