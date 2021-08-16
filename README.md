@@ -4,4 +4,4 @@
 
 #Sheet 2, "ICEfinder_Lithuanian_isolates" - Data for integrated elements detected in Lithuanian isolates
 
-#Sheet 3, "ICEfinder_invasive_isolates" - Data for integrated elements detected in English isolates
+#Sheet 3, "ICEfinder_English_isolates" - Data for integrated elements detected in English isolates
